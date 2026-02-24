@@ -37,7 +37,7 @@ Default iterations: **600,000** (matching Mirth Connect's default configuration)
 
 ```bash
 # Debian / Ubuntu
-sudo apt install g++ libcryptopp-dev hashcat
+sudo apt install g++ libcrypto++-dev hashcat
 
 # Arch Linux
 sudo pacman -S gcc crypto++ hashcat
