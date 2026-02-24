@@ -46,7 +46,7 @@ sudo pacman -S gcc crypto++ hashcat
 ### 2. Clone the repository
 
 ```bash
-https://github.com/Pegasus0xx/Mirth-PBKDF2-Cracker.git && \
+git clone https://github.com/Pegasus0xx/Mirth-PBKDF2-Cracker.git && \
 cd Mirth-PBKDF2-Cracker
 ```
 
